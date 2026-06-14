@@ -1,6 +1,6 @@
 # Lương Thuận Chung
 
-### 🎭 Game Developer | Android | C++ | Unity & Unreal Engine Explorer | 2D/3D Artist
+### Game Developer | Android | C++ | Unity & Unreal Engine Explorer | 2D/3D Artist
 
 *"Một kiếm định giang sơn, một dòng code dựng thế giới."* 
 
@@ -34,6 +34,10 @@ Tôi là một nhà phát triển game đam mê tạo ra các thế giới ảo 
   <img width="2539" height="1419" alt="Screenshot 2026-06-14 104011" src="https://github.com/user-attachments/assets/ab32685a-48c1-42db-971c-2c35f8e732cb" />
   <img width="2508" height="1398" alt="Screenshot 2026-06-14 194141" src="https://github.com/user-attachments/assets/2bb1faa0-2d05-479a-a2c1-a3c3efcf23dc" />
   <img width="2518" height="1419" alt="Screenshot 2026-06-12 134036" src="https://github.com/user-attachments/assets/2aaae25e-3fbf-4a48-88e0-05ad999bf6e0" />
+
+- 🎭 **YugiOh AR:** Dự án về hiện hình ảnh ảo 3D giúp người chơi YugiOh card game thực hiện việc triệu hồi quái thú mà họ có thẻ bài hay yêu thích.
+- https://github.com/user-attachments/assets/549b5838-9fd6-4a25-aae5-8beca6b6a5a1
+- App Store: https://apps.apple.com/vn/app/monsters-card-ar/id6444138910?l=vi
 
 
 ---
