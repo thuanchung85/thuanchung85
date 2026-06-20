@@ -39,7 +39,7 @@ Tôi là một nhà phát triển game đam mê tạo ra các thế giới ảo 
 
 ---
 -  **YugiOh AR:** Dự án về hiện hình ảnh ảo 3D giúp người chơi YugiOh card game thực hiện việc triệu hồi quái thú mà họ có thẻ bài hay yêu thích.
-- https://github.com/user-attachments/assets/549b5838-9fd6-4a25-aae5-8beca6b6a5a1
+- Video Demo: https://github.com/user-attachments/assets/549b5838-9fd6-4a25-aae5-8beca6b6a5a1
 - App Store: https://apps.apple.com/vn/app/monsters-card-ar/id6444138910?l=vi
 
 
