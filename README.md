@@ -27,7 +27,8 @@ Tôi là một nhà phát triển game đam mê tạo ra các thế giới ảo 
 
 ###  Các Dự Án Tâm Huyết (Featured Projects)
 -  **[TankGame_embedded](https://github.com/thuanchung85/TankGame_embedded):** Dự án game xe tăng lập trình theo mô hình hướng sự kiện (Event-Driven) trên kit vi điều khiển nhúng, quản lý chặt chẽ kiến trúc và phần cứng.
-- https://github.com/user-attachments/assets/0a2d2ca1-4aab-4f7d-9217-8a006b4d772b
+
+- https://github.com/user-attachments/assets/752cf87b-a4f8-44cc-a2c0-bafe41e82939
 
 -  **Thập Nhị Chi Thiên (Thần Long Cốc):** Dự án thế giới mở huyền ảo trên Unity 6, tích hợp cơ chế thời tiết động đồng bộ thời gian thực và kiến trúc cổ phong độc đáo.
   <img width="2521" height="1419" alt="Screenshot 2026-06-14 103314" src="https://github.com/user-attachments/assets/9245d0a2-3625-46ba-8485-a084cdc8f039" />
